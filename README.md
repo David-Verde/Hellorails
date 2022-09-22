@@ -6,7 +6,7 @@
     <img src="/src/logo-david-nuevo-2021.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ReactJs --> [Opp-School-library-app]</h3>
+  <h3 align="center">Ruby on Rails --> [Hellorails]</h3>
 
   <p align="center">
     This project is part of the Microverse curriculum in Ruby module!
