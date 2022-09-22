@@ -40,7 +40,7 @@ Soon
 
 ###
  <a href="https://github.com/David-Verde/Hellorails">
-    <img src="/src/dawf.png" alt="Logo">
+    <img src="/Hellorails/app/assets/logo-david-nuevo-2021.png" alt="Logo">
   </a>
 
 ### Built With
